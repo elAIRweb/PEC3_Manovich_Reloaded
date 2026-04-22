@@ -1,12 +1,10 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
+
+Autor: Andrés Ibáñez
 
 
-Autor: 
-
-
-Fecha: 
+Fecha: 22/04/2026
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
