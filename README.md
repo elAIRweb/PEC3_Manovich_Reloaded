@@ -1,12 +1,13 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
+**Autor:** Andrés Ibáñez
 
-Autor: Andrés Ibáñez
+**Fecha:** 29/04/2026
 
 
-Fecha: 22/04/2026
+![Cultura Digital](img/principal.jpg)
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+*Imagen: Magnific. (https://www.magnific.com/es)*
 
 
 
