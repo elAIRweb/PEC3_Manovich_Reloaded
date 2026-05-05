@@ -2,7 +2,7 @@
 
 **Autor:** Andrés Ibáñez
 
-**Fecha:** 03/05/2026
+**Fecha:** 05/05/2026
 
 
 ![Cultura Digital](img/principal.jpg)
@@ -52,9 +52,15 @@ Los medios que se hibridan en Bandersnatch son:
 - **Interactividad**: el espectador toma decisiones que determinan el desarrollo y el final de la historia, algo posible gracias al software de la plataforma en este caso Netflix.
 
 
+### Valoración
+
+Bandersnatch abrió una puerta que hasta entonces nadie había cruzado en el mundo del streaming. Sin embargo, Netflix no continuó apostando por este formato de forma masiva, lo que invita a preguntarnos si el espectador realmente quiere tomar decisiones cuando consume entretenimiento, o si prefiere dejarse llevar por la historia.
+
+***¿Realmente estamos nosotros decidiendo qué ver?***
 
 
-## Re-descubriendo la hibridacion: Caso 2
+
+## Re-descubriendo la hibridacion: Reactable
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
