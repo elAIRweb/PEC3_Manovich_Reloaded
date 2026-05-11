@@ -2,7 +2,7 @@
 
 **Autor:** Andrés Ibáñez
 
-**Fecha:** 05/05/2026
+**Fecha:** 11/05/2026
 
 
 ![Cultura Digital](img/principal.jpg)
@@ -56,18 +56,76 @@ Los medios que se hibridan en Bandersnatch son:
 
 Bandersnatch abrió una puerta que hasta entonces nadie había cruzado en el mundo del streaming. Sin embargo, Netflix no continuó apostando por este formato de forma masiva, lo que invita a preguntarnos si el espectador realmente quiere tomar decisiones cuando consume entretenimiento, o si prefiere dejarse llevar por la historia.
 
-***¿Realmente estamos nosotros decidiendo qué ver?***
+***Este análisis me hace pensar una cosa... ¿Realmente estamos nosotros decidiendo qué ver?***
 
 
 
 ## Re-descubriendo la hibridacion: Reactable
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Reactable](img/Reactable.jpg)
+
+*Imagen: Wikipedia (https://es.wikipedia.org/)*
+
+Reactable es una innovadora mesa musical que nació del Grupo de Tecnología Musical de la UPF en Barcelona. Lo que hace que este instrumento sea una pieza clave de hibridación y no un simple sintetizador es cómo Sergi Jordà (músico y creador digital), Marcos Alonso, Günter Geiger y Martin Kaltenbrunner (todos ellos ingenieros informáticos y músicos)  lograron que el software "leyera" el mundo físico. Se fabricaron unidades muy limitadas dado su complejidad y coste, una de las cuales fue adquirida por la cantante islandesa Björk, que lo usó en su gira Volta.
+
+Al interactuar con el tablero se manipulan objetos físicos moviéndolos o girándolos y el software lo interpreta instantáneamente en distintos efectos de sonido. Cada bloque representa un elemento diferente: generadores de sonido, filtros, efectos... y según cómo estén colocados y relacionados entre sí en la mesa, el resultado del sonido cambia. La propia superficie proyecta también visualizaciones de luz en tiempo real que representan lo que está ocurriendo musicalmente, haciendo que la experiencia sea también visual. Todo esto es posible gracias al software ReacTIVision, que es un software de visión artificial que analiza continuamente la superficie a través de dos cámaras rastreando la posición y orientación de cada bloque en tiempo real.
+
+Lo que hace que Reactable sea especial es que para que “suene” no hace falta saber música de ninguna forma. Cualquier persona puede colocar un bloque sobre la mesa y empezar a generar sonido, moverlo para modificarlo o acercarlo a otro para combinar sonidos. No existe nada más, ni teclados, ni instrucciones…. El sonido surge directamente de la interacción física de una o varias personas con los bloques. Además de Björk, artistas como David Guetta, Coldplay o Carles López lo utilizaron en conciertos y programas de televisión como El Hormiguero, lo que da una idea de su impacto en la música electrónica.
+
+Con las gafas de Manovich, Reactable es un ejemplo claro de hibridación. Combina el instrumento musical físico con el software y la visualización digital para crear algo que no existía antes. No es un instrumento tradicional porque depende del software para funcionar, tampoco es solo software porque sin los bloques físicos y la interacción táctil con la mesa no tendría sentido, por lo que la hibridación es total: el sonido no solo se escucha, sino que se toca y se ve, el músico, el instrumento y la visualización se convierten en una sola cosa.
+
+Los medios que se hibridan en Reactable son:
+- **Instrumento físico**: los bloques tangibles que el músico manipula sobre la mesa.
+- **Software**: ReacTIVision detecta la posición de los bloques en tiempo real y genera el sonido correspondiente.
+- **Visualización digital**: la mesa proyecta imágenes de luz que representan lo que está ocurriendo musicalmente, añadiendo una dimensión visual a la experiencia sonora.
 
 
-### Referencias y Bibliografía
+**David Guetta en El Hormiguero usando el Reactable:**
+https://www.youtube.com/watch?v=pmwbkieRvhU
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+[![David Guetta en El Hormiguero usando la Reactable](https://img.youtube.com/vi/pmwbkieRvhU/0.jpg)](https://www.youtube.com/watch?v=pmwbkieRvhU)
+
+
+
+**Concierto en directo de Björk, haciendo uso del Reactable**
+https://www.youtube.com/watch?v=GDq5uXv0Pbo
+
+[![Concierto en directo de Björk, haciendo uso de la Reactable](https://img.youtube.com/vi/GDq5uXv0Pbo/0.jpg)](https://www.youtube.com/watch?v=GDq5uXv0Pbo)
+
+
+**Björk - Reactable: Ejemplo de sonido y funcionamiento**
+https://www.youtube.com/watch?v=hNeCHI4NAzw
+
+[![Björk - Reactable: Ejemplo de sonido y funcionamiento](https://img.youtube.com/vi/hNeCHI4NAzw/0.jpg)](https://www.youtube.com/watch?v=hNeCHI4NAzw)
+
+### Valoración
+
+Reactable nos demuestra que la música no tiene por qué estar reservada a quienes tienen formación musical. Aunque el hecho de que se fabricaran muy pocas unidades creo que dice mucho de sus limitaciones como producto de consumo extendido a todo el público. Es un ejemplo perfecto de hibridación pero ha quedado más como un objeto de vanguardia que como algo al alcance de cualquiera.
+
+
+## Conclusión
+
+Tanto Bandersnatch como Reactable son ejemplos de cómo la hibridación puede crear experiencias que no existían antes. Ninguno de los dos se ha convertido en un estándar masivo, pero los dos abrieron caminos que otros han seguido, y al final es exactamente lo que Manovich describe: el software tomando el mando para crear algo nuevo.
+
+
+## Referencias y Bibliografía
+
+- **Manovich, L.** (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+- **Wikipedia.** (s.f.). *Black Mirror: Bandersnatch*. [https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch](https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)
+- **Wikipedia.** (s.f.). *Reactable*. [https://es.wikipedia.org/wiki/Reactable](https://es.wikipedia.org/wiki/Reactable)
+- **Markdown.** (2024). *Guía de sintaxis estándar*. [https://markdown.es/](https://markdown.es/)
+- **StackEdit.** (2024). *Editor Markdown en línea*. [https://stackedit.io/](https://stackedit.io/)
+- **GitHub.** (2024). *Documentación oficial y repositorios*. [https://docs.github.com/es](https://docs.github.com/es)
+- **Google.** (2026). *Gemini 3 Flash* (versión 11 de mayo) [Large language model]. [https://gemini.google.com/](https://gemini.google.com/)
+  - **Metodología de uso:** Se ha utilizado esta herramienta de IA para facilitar la investigación de datos técnicos, estructurar el contenido y la corrección ortográfica. (Google, 2026).
+- **YouTube.** *Plataforma de recursos de vídeo*: [https://www.youtube.com/](https://www.youtube.com/)
+
+
+**Imágenes:**
+
+- **Magnific.** (2026). *Ilustración metaverso degradado* [Imagen]. [https://img.magnific.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg](https://img.magnific.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg)
+- **Game Rant.** (2024). *Black Mirror: Bandersnatch Interactive Titles* [Imagen]. [https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/black-mirror-bandersnatch-netflix-interactive-titles.jpg](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/black-mirror-bandersnatch-netflix-interactive-titles.jpg)
+- **Wikipedia Commons.** (s.f.). *Reactable Multitouch surface* [Imagen]. [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reactable_Multitouch.jpg/1280px-Reactable_Multitouch.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reactable_Multitouch.jpg/1280px-Reactable_Multitouch.jpg)
 
 
 ----
